@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Towfique101
 - 👀 I’m interested in Web Application and App development.
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React JS (of course after I learn JavaScript)
 - 💞️ I’m looking to collaborate on Data analysis, Web applications based on React JS
 - 📫 How to reach me (email me at towfique.hasan@rwth-aachen.de)
 
